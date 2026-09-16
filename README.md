@@ -1,6 +1,6 @@
 # Underdog Home Improvements
 
-Phase 1: 18 routes covering four core pages, eight services and six area pages, prioritising Colchester and Ipswich. See BUILD-BRIEF.md for the adapted user prompt, ROUTE-AUDIT.md for validation, and DESIGN.md for design tokens.
+Phase 1: 18 routes covering four core pages, eight services and six area pages, prioritising Colchester and Ipswich.
 
 ## Run locally
 

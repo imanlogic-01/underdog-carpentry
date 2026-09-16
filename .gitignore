@@ -46,3 +46,11 @@ next-env.d.ts
 /.codex/
 /outputs/
 /work/
+
+# Local planning and reference material
+/BUILD-BRIEF.md
+/DESIGN.md
+/PRODUCT.md
+/ROUTE-AUDIT.md
+/.impeccable/
+/examples/
